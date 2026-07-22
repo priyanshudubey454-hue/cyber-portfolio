@@ -87,7 +87,7 @@ function Contact() {
           </a>
 
           <a
-            href="/Resume (2).pdf"
+            href="/Resume (3).pdf"
             download
             className="flex items-center gap-3 border border-pink-500 hover:bg-pink-600 px-6 py-3 rounded-xl transition"
           >
