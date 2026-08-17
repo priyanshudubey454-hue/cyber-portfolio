@@ -34,8 +34,8 @@ function Certificates() {
     {
       title: "Google Cybersecurity Professional Certificate",
       issuer: "Google",
-      status: "In Progress",
-      color: "text-yellow-400",
+      status: "Completed",
+      color: "text-green-400",
       link: "/certificates/Google Cybersecurity Professional Certificate.pdf",
     },
   ];
