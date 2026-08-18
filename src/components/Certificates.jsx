@@ -38,6 +38,46 @@ function Certificates() {
       color: "text-green-400",
       link: "/certificates/Google Cybersecurity Professional Certificate.pdf",
     },
+    {
+    "title": "Introduction to Cybersecurity",
+    "issuer": "Commonwealth Bank",
+    "status": "Completed",
+    "color": "text-green-400",
+    "link": "/certificates/commonwealth-bank-cybersecurity.pdf",
+    "date": "August 1, 2026"
+  },
+  {
+    "title": "Cybersecurity Job Simulation",
+    "issuer": "Deloitte",
+    "status": "Completed",
+    "color": "text-green-400",
+    "link": "/certificates/deloitte-cybersecurity.pdf",
+    "date": "2026"
+  },
+  {
+    "title": "Cybersecurity Job Simulation",
+    "issuer": "Mastercard",
+    "status": "Completed",
+    "color": "text-green-400",
+    "link": "/certificates/mastercard-cybersecurity.pdf",
+    "date": "2026"
+  },
+  {
+    "title": "Introduction to Python",
+    "issuer": "CENTRI",
+    "status": "Completed",
+    "color": "text-green-400",
+    "link": "/certificates/introduction-to-python.pdf",
+    "date": "2026"
+  },
+  {
+    "title": "Introduction to Bash",
+    "issuer": "DataCamp / CENTRI",
+    "status": "Completed",
+    "color": "text-green-400",
+    "link": "/certificates/introduction-to-bash.pdf",
+    "date": "August 7, 2026"
+  },
   ];
 
   return (
