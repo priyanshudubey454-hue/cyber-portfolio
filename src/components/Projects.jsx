@@ -3,20 +3,21 @@ import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
 function Projects() {
   const projects = [
     {
-      title: "Packet Sentinel - Network Packet Analyzer",
-      image: "/projects/packet-sentinel.png",
-      desc: "Developed a modern Network Packet Analyzer using Python that processes captured network traffic and visualizes Top Source IPs, Protocol Distribution and packet statistics through an interactive dashboard.",
-      tech: [
-        "Python",
-        "Scapy",
-        "Pandas",
-        "Flask",
-        "Networking",
-      ],
-      github: "https://github.com/priyanshudubey454-hue/packet_sentinel",
-      demo: "#",
-      color: "from-cyan-600 via-blue-600 to-pink-600",
-    },
+  "title": "Packet Sentinel - Network Packet Analyzer",
+  "image": "/projects/packet-sentinel.png",
+  "desc": "Developed a modern Network Packet Analyzer using Python that processes captured network traffic and visualizes Top Source IPs, Protocol Distribution and packet statistics through an interactive dashboard.",
+  "tech": [
+    "Python",
+    "Scapy",
+    "Pandas",
+    "Flask",
+    "Networking"
+  ],
+  "github": "https://github.com/priyanshudubey454-hue/packet_sentinel",
+  "demo": "https://packet-sentinel-zeta.vercel.app",
+  "color": "from-cyan-600 via-blue-600 to-pink-600",
+  "live": true
+},
     {
   title: "Vulnerability Assessment & Remediation",
   desc: "Performed a vulnerability assessment on a Metasploitable2 lab environment using Nmap and Nessus. Identified security vulnerabilities, analyzed risk levels, documented findings, and provided remediation recommendations.",
