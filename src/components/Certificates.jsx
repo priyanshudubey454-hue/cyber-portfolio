@@ -43,7 +43,7 @@ function Certificates() {
     "issuer": "Commonwealth Bank",
     "status": "Completed",
     "color": "text-green-400",
-    "link": "/certificates/commonwealth-bank-cybersecurity.pdf",
+    "link": "/certificates/commonwealth  bank certificate.pdf",
     "date": "August 1, 2026"
   },
   {
@@ -51,7 +51,7 @@ function Certificates() {
     "issuer": "Deloitte",
     "status": "Completed",
     "color": "text-green-400",
-    "link": "/certificates/deloitte-cybersecurity.pdf",
+    "link": "/certificates/deloite.pdf",
     "date": "2026"
   },
   {
@@ -59,7 +59,7 @@ function Certificates() {
     "issuer": "Mastercard",
     "status": "Completed",
     "color": "text-green-400",
-    "link": "/certificates/mastercard-cybersecurity.pdf",
+    "link": "/certificates/Mastercard certficate.pdf",
     "date": "2026"
   },
   {
@@ -67,7 +67,7 @@ function Certificates() {
     "issuer": "CENTRI",
     "status": "Completed",
     "color": "text-green-400",
-    "link": "/certificates/introduction-to-python.pdf",
+    "link": "/certificates/Introduction to Python-course.pdf",
     "date": "2026"
   },
   {
@@ -75,7 +75,7 @@ function Certificates() {
     "issuer": "DataCamp / CENTRI",
     "status": "Completed",
     "color": "text-green-400",
-    "link": "/certificates/introduction-to-bash.pdf",
+    "link": "/certificates/Introduction to Bash-course.pdf",
     "date": "August 7, 2026"
   },
   ];
