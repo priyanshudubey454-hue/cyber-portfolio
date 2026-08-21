@@ -6,11 +6,11 @@ function Footer() {
 
       <div className="flex justify-center gap-6 text-2xl mb-4">
 
-        <a href="https://github.com/yourusername" target="_blank">
+        <a href="https://github.com/priyanshudubey454-hue" target="_blank">
           <FaGithub className="hover:text-blue-500 duration-300" />
         </a>
 
-        <a href="https://linkedin.com/in/yourusername" target="_blank">
+        <a href="https://www.linkedin.com/in/priyanshu-dubey-a14553361" target="_blank">
           <FaLinkedin className="hover:text-pink-500 duration-300" />
         </a>
 
