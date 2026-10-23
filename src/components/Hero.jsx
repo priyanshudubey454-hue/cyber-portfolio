@@ -43,7 +43,7 @@ function Hero() {
           </a>
 
           <a
-            href="/Resume (3).pdf"
+            href="/Priyanshi_Dubey_VAPT_Resume_FullPage.pdf"
             download
             className="flex items-center gap-2 border border-pink-500 hover:bg-pink-500 px-8 py-4 rounded-xl duration-300 hover:scale-105"
           >
